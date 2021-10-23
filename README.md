@@ -1,16 +1,12 @@
-# timesheet
+# Timesheet
 
-A Flutter project to update employees' daily working hours
+A simple timesheet application made with Flutter to update employees' daily working hours.
 
-## Getting Started
+<br>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<p>
+  <img width="216" hspace="20" alt="Login screen" src="https://user-images.githubusercontent.com/67222214/138573284-377cbadc-8cf1-4685-b56b-89a8e55c87dd.png">
+  <img width="216" hspace="20" alt="Home screen" src="https://user-images.githubusercontent.com/67222214/138573286-359b0651-c303-4063-b8c0-b965e73e9e63.png">
+  <img width="216" hspace="20" alt="Details screen" src="https://user-images.githubusercontent.com/67222214/138573281-0d581556-3ef7-4458-bbc0-2de9939d0479.png">
+</p>
