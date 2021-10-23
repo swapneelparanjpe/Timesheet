@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370132046012",
+    "project_id": "timesheet-3e1fb",
+    "storage_bucket": "timesheet-3e1fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370132046012:android:2fd880d821ffce37c600b9",
+        "android_client_info": {
+          "package_name": "com.swapps.timesheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370132046012-4d1tgpfttiushfi833n2ihop7sb4pthr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8zM3O0FDF_JM9Sme8ngzr77fOrYZZdvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370132046012-4d1tgpfttiushfi833n2ihop7sb4pthr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
